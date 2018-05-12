@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '25370'
     url: http://www.gutenberg.org/2009/agents/25370
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22508#Nova-Castro--tragedia
 edition_note: "Quinta edição, correcta de muitos erros, e augmentada com\r\na brilhante\
   \ scena da coroação"
 gutenberg_bookshelf: PT Teatro
