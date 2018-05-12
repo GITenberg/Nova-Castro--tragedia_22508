@@ -1,0 +1,37 @@
+_repo: Nova-Castro--tragedia_22508
+_version: 0.1.0
+alternative_title: 'Nova Castro: tragédia'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Júnior, João Baptista Gomes
+    aliases:
+    - Junior, João Batista Gomes
+    - Gomes, Joao Baptista
+    - Gomes, João Baptista
+    deathdate: 1803
+    gutenberg_agent_id: '25370'
+    url: http://www.gutenberg.org/2009/agents/25370
+description: ''
+edition_note: "Quinta edição, correcta de muitos erros, e augmentada com\r\na brilhante\
+  \ scena da coroação"
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2007-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22508'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. (produced from scanned images\r\nof\
+  \ public domain material from Google Book Search)"
+publication_note: "Lisboa:\r\nNa Impressão Regia\r\n1830"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castro, Inês de, -1355 -- Drama'
+- !lcc 'PQ'
+title: 'Nova Castro: tragedia'
+url: http://www.gutenberg.org/ebooks/22508
